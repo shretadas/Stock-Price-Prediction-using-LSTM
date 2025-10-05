@@ -90,12 +90,29 @@ Load Data → Preprocess → Create Sequences → Scale → Train/Test Split
    jupyter notebook Stock_Price_Prediction.ipynb
    ```
 
-## 📊 Model Performance
+## 📊 Results & Visualizations
 
-The model's performance is evaluated using:
-- Mean Squared Error (MSE)
-- Mean Absolute Error (MAE)
-- Real vs Predicted Price Comparisons
+### Portfolio Historical Data
+![Portfolio History](images/portfolio_history.png)
+*Historical price trends across our portfolio of assets*
+
+### Training Performance
+![Training History](images/training_history.png)
+*Model training history showing loss convergence over epochs*
+
+### Prediction Analysis
+![Predictions](images/predictions.png)
+*Comparison between predicted and actual stock prices*
+
+### Latest Market Analysis
+![Latest Analysis](images/latest_plot.png)
+*Most recent market predictions and analysis*
+
+Our LSTM model demonstrates:
+- Low Mean Squared Error (MSE) across predictions
+- Accurate trend predictions for multiple assets
+- Robust performance across different market conditions
+- Reliable pattern recognition in volatile markets
 
 ## 🔧 Technologies Used
 
