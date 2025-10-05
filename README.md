@@ -1,24 +1,34 @@
-# # Stock Price Prediction using LSTM 📈
+# 📈 Stock Market Predictor with LSTM
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange)](https://tensorflow.org/)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/shretadas/Stock-Price-Prediction-using-LSTM/graphs/commit-activity)
 
-## 📊 Project Overview
+> 🚀 A deep learning approach to predict stock market prices using LSTM (Long Short-Term Memory) networks.
 
-This project implements a stock price prediction model using Long Short-Term Memory (LSTM) networks. The model analyzes historical price data for multiple assets (AMZN, DPZ, BTC, NFLX) to predict future price movements.
+## � Table of Contents
 
-### 🎯 Key Features
+- [Overview](#overview)
+- [Quick Start](#quick-start)
+- [Project Structure](#project-structure)
+- [Dependencies](#dependencies)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
 
-- Multi-asset price prediction
-- Real-time training visualization
-- Comprehensive performance metrics
-- Interactive Jupyter notebook implementation
-- Data preprocessing and validation
-- Advanced LSTM architecture
+## 🎯 Overview
+
+This project implements an LSTM-based deep learning model to predict stock market prices. We analyze historical data from multiple assets (AMZN, DPZ, BTC, NFLX) to forecast future price movements, helping investors make data-driven decisions.
+
+### ✨ Key Features
+
+- 🔮 Multi-asset price prediction with LSTM networks
+- 📊 Real-time visualization of training progress
+- 📈 Comprehensive performance metrics and analysis
+- 🧪 Interactive Jupyter notebook implementation
+- 🔍 Robust data preprocessing pipeline
+- 🤖 Advanced LSTM architecture with dropout layers
 
 ## 📈 Visualizations
 
@@ -132,14 +142,13 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- [Shreta Das](https://github.com/shretadas)
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-<p align="center">
-Made with ❤️ and TensorFlow
-</p>
+<div align="center">
+  Made with ❤️ by <a href="https://github.com/shretadas">Shreta Das</a>
+  <br>
+  <br>
+  <p>If you find this project helpful, please give it a ⭐!</p>
+</div>
