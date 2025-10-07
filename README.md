@@ -32,14 +32,6 @@ This project implements an LSTM-based deep learning model to predict stock marke
 
 ## 📈 Visualizations
 
-### Historical Price Data
-![Historical Prices](images/historical_prices.png)
-*Historical price trends for all assets in the portfolio*
-
-### Training Progress
-![Training Progress](images/training_progress.png)
-*Model training progress showing loss reduction over epochs*
-
 ### Prediction Results
 ![Predictions](images/predictions.png)
 *Actual vs Predicted prices for target asset*
